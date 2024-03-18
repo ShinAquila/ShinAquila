@@ -1,24 +1,52 @@
-# 💫 About Me:
-Hewwo 👋, I'm Vincent Ace Rivera
+<h1 align="center">Hewwo 👋, I'm Vincent Ace Rivera</h1>
+
+<p align="center">
+A college student who is somehow surviving in IT
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-ace-rivera-b97092255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shin_aquilaaaa) 
+<h3 align="center">🌐 Connect with me</h3>
+<div align="center">
+<a href="https://github.com/ShinAquila" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/shin_aquilaaaa" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/vincent-ace-rivera-b97092255" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+<br/><br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShinAquila&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShinAquila&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinAquila&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">💻 Skill Sets</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div> <br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShinAquila&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShinAquila&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=ShinAquila&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" align="center" /></div>  
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinAquila&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="center" /></div>  
+<br/> <br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShinAquila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ShinAquila&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" align="center" /></div>  
+<br/>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ShinAquila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" /></div>  
+<br/>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" /></div>  
+<br/>
+</p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

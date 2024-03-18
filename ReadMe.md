@@ -1,7 +1,12 @@
 <h1 align="center">Hewwo 👋, I'm Vincent Ace Rivera</h1>
 
 <p align="center">
-A college student who is somehow surviving
+A college student who is surviving somehow ༼ つ ◕_◕ ༽つ
+<br/><br/>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" /></div>  
+<br/>
 
 
 <h3 align="center">🌐 Connect with me</h3>
@@ -45,9 +50,6 @@ A college student who is somehow surviving
 <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ShinAquila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" align="center" /></div>  
 <br/>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" /></div>  
-<br/>
 </p>
 
 

@@ -25,6 +25,7 @@ A college student who is somehow surviving in IT
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-%49be25.svg?style=for-the-badge&logo=android&logoColor=white" />
 </div> <br/><br/>
 
 <h2 align="center">📊 GitHub Stats</h2>

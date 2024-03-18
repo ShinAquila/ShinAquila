@@ -1,7 +1,7 @@
 <h1 align="center">Hewwo 👋, I'm Vincent Ace Rivera</h1>
 
 <p align="center">
-A college student who is somehow surviving in IT
+A college student who is somehow surviving
 
 
 <h3 align="center">🌐 Connect with me</h3>
